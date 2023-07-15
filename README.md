@@ -1,5 +1,6 @@
 bootstrap-select
 ================
+//not sure if i need it
 
 [![Latest release](https://img.shields.io/github/release/silviomoreto/bootstrap-select.svg?style=flat)](https://github.com/silviomoreto/bootstrap-select/releases/latest)
 [![Bower](https://img.shields.io/bower/v/bootstrap-select.svg)]()
